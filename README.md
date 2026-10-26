@@ -17,3 +17,10 @@ Open `index.html` in a browser, or use the Live Server extension in Visual Studi
 
 ## Important
 This is a coursework demo. The prices and timetable are sample content; the form does not send bookings to a real studio. The dark-mode control works locally.
+## Project Features
+
+- Responsive desktop and mobile design
+- Yoga and Pilates class cards
+- Online booking form
+- Light and dark themes
+- GitHub Pages deployment
