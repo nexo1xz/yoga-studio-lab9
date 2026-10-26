@@ -24,3 +24,14 @@ This is a coursework demo. The prices and timetable are sample content; the form
 - Online booking form
 - Light and dark themes
 - GitHub Pages deployment
+## Live Website
+
+https://nexo1xz.github.io/yoga-studio-lab9/
+
+## Technologies
+
+- HTML5
+- CSS3
+- CSS Grid and Flexbox
+- JavaScript
+- GitHub Pages
